@@ -1,0 +1,5 @@
+.Cart{
+    display: flex;
+    flex: wrap;
+    justify-content: space-between;
+}
